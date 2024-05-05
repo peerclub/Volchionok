@@ -17,8 +17,8 @@ $(function() {
         animIndex++
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
-    var tKillNames = ["Volchionok 🇺🇦"];
-    var ctKillNames = ["squadcardance", "cars_squad", "squad_wolf", "deazly_squad", "warriorsquad"];
+    var tKillNames = ["Flume Distribution 🇺🇦"];
+    var ctKillNames = ["KILLA!", "RU.MEDIA", "Sony Digital", "Memphis label", "warriorsquad"];
     var weapons = ["ssg", "ak47", "deagle", "g3sg1"];
     var $killFeedContainer = $('.kill-feed');
     var $killFeedElement = $('.kill-feed > div').hide();
